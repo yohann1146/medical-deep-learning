@@ -1,0 +1,9 @@
+numpy
+opencv-python
+nibabel
+pydicom
+scikit-image
+pandas
+tqdm
+tensorflow>=2.10,<2.16
+tf2onnx

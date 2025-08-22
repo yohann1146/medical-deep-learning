@@ -3,8 +3,11 @@ This project aims to create a deep learning pipeling to analyze and classify med
 
 ## Structure
 **/env/**: contains list libraries/frameworks required
+
 **/data/**: contains both raw image data and the sliced (3d to 2d) matrices for processing
+
 **/src/**: contains source code for the TF model, OpenCV processing, importing datasets and other miscellaneous utilities.
+
 
 ## Pending
 Deployment on Jetson Nano
